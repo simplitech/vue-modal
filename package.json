@@ -1,6 +1,6 @@
 {
   "name": "@simpli/vue-modal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create Reactive Vue Modals",
   "keywords": [],
   "main": "lib/index.js",
