@@ -10,4 +10,4 @@ export default class ModalWrapper {
   }
 }
 
-export { $modal, Modal }
+export { $modal, Modal, ModalController }
