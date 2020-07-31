@@ -5,7 +5,7 @@ const $modal = new ModalController()
 
 export default class ModalWrapper {
   static install() {
-    Vue.component(Modal.name, Modal)
+    Vue.component('Modal', Modal)
     Vue.prototype.$modal = $modal
   }
 }
